@@ -1,0 +1,48 @@
+Project:
+
+1. What- Both hands on both sides of the body and above the shoulder and elbow.
+
+2. Hello- 1. Right hand in front of head and above shoulder center, Right hand left of right shoulder
+              2. Right hand on the right of the right shoulder	
+
+3. Age- 1. Right hand in between head and shoulder center(Y), between the shoulders(X)
+            2. Move right hand below shoulder center
+
+4. You- 1. Right hand between two elbows(X), Lower than shoulder center and above Hip center (Y), Right hand behind right elbow (Z)
+            2. Right hand in front of elbow (Z)
+
+5. Food- Left hand between shoulders(X) and between head and shoulder center(Y)
+
+6. Live- 1. Both hands on both sides of hip center, both hands lower than hip center
+            2. Both hands above the hip center and below spine
+            3. Both hands above the spine
+
+7. Name- 1. Both hands in between the elbows, right hand lower than the shoulder center, left hand lower than the spine, right hand lower than the spine
+               2. Right hand above spine
+
+8. City- 1. Both hands lower than the shoulders and above spine, both hands on one side of the spine
+            2. Both hands on the other side of the spine
+
+9. Hungry- 1. Right hand in between shoulders, left hand is left of the left hip and lower than the hip, right hand is higher than the spine
+                 2. Move Right hand below spine and left of the spine
+                 3. Move Right hand above spine
+
+10. Drive- 1. Both hands in between spine and respective shoulder, right hand above spine and left hand below spine
+                2. Left hand above spine and right hand below spine
+
+
+
+Sentences
+
+1. You + Name = What is your name?
+ 
+2. You + Drive = Can you drive [a car]?
+
+3. Age + You = How old are you?
+
+4. City + You + Live = What city do you live in
+
+5. What + You + Food = What do you want to eat?
+
+6. You + Hungry = Are you hungry?
+
